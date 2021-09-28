@@ -5,8 +5,7 @@ The artifact created is the combination of Project One and Project Two that perf
 
 The original artifact functionality consisted of reversing a binary file to the C++ language using the Bless Hex Editor. The binary file was translated to assembly, and was prepared for being converted to C++. The C++ language file was then converted to a .out binary file for the software product to be executed on Linux systems. The compiler used when reverse engineering the original binary files was the GNU compiler, which is suited for Linux systems. The original artifact contains several methods: a main method, a ChangeCustomerChoice method, a CheckUserPermissionAccess method, and a DisplayInfo method. These methods are not reusable and contain object-oriented practices. In addition to reverse engineering, the purpose of this project was to verify the authentication and authorization of a user's account when a user purchases a product online. The functionality of this artifact is illustrated below.
 
-```
-```
+You can find the original artifact here
 
 
 
