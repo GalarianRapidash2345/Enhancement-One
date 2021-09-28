@@ -13,4 +13,4 @@ The inclusion of the artifact in my ePortfolio is justified through factors wher
 
 The functionality of the enhanced artifact includes using the enhancement objectives. The enhancement objectives consisted of reverse engineering a project for a different operating system and transferring a project into a different language. These enhancements were performed within the existing code segments, where each segment was transferred into a different language and the entire project was reverse-engineered for a different operating system. The enhanced features include refining the methods and creating deallocated code segments for each method using C coding standards. This functionality refines the artifact to be a more optimized software product.  
 
-
+You can find the enhanced artifact here
