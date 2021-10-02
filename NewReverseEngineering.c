@@ -14,7 +14,7 @@ translated from assembly language that can be found here: https://wiki.sei.cmu.e
 int main(void)
 {
 	 const int customerchoice = 10;   /*Declaring const saves storage use.*/
-     const int permissions = 12;
+         const int permissions = 12;
 	 const int i;
 
 	printf("This C file was created by Clara Kellermann-Bryant");
@@ -34,6 +34,7 @@ int main(void)
 
 
 /*The declarations and method here deallocates the memory for int main(). */
+
 const int information = NULL; /*This conducts memory deallocation.*/
 long j = NULL;
 
