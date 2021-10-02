@@ -1,6 +1,7 @@
 # Software Design/Engineering
 
 The artifact created is the combination of Project One and Project Two that performed reverse engineering of assembly language to C++ and created a .out file to execute the projects from CS 410: Reverse Engineering. The artifact consists of a multitude of files that demonstrate proficiency in reverse engineering criteria of the Software Design and Engineering category. The original artifact was created in April of 2021. This artifact was determined to be later within the program, which shows commitment to enhancing more advanced projects. The enhanced artifact contains the conversion of C++ to C and the Linux .out file to a Windows .exe file. 
+
 The original artifact functionality consisted of reversing a binary file to the C++ language using the Bless Hex Editor. The binary file was translated to assembly, converted to C++, and then converted to a .out file to execute on the Linux operating system. The compiler used when reverse-engineering the original binary files was the GNU compiler, which is suited for Linux systems. The original artifact contains several methods: the main method, a ChangeCustomerChoice method, a CheckUserPermissionAccess method, and a DisplayInfo method. These methods are not reusable and contain object-oriented practices. In addition to reverse engineering, the purpose of this project was to verify the authentication and authorization of a user's account when a user purchases a product online. The functionality of this artifact illustrates the improvements below.
 
 
