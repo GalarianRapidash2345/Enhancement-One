@@ -22,4 +22,11 @@ The overall development process consists of my experiences working with the arti
 Reflecting on the enhancement of artifact one, I gained experience in decision-making for stakeholders, working in collaborative environments, and communication. The other experience I gained includes using the software development lifecycle, using well-founded techniques in computing practices, and developing a security mindset. I utilized decision-making for stakeholders by using coding standards and adopting a policy for the artifact. In addition, I worked in a collaborative environment, where I shared and incorporated feedback for the artifact enhancements. I then cleaned my artifact code, implemented comments, and worked on my writing skills for effective communication. For this artifact, I practiced the software development lifecycle through considering deadlines, failing fast, and utilizing the agile methodology. I then used well-founded techniques for my computing practices by implementing style for the C/C++ languages within the artifact. Finally, I developed a security mindset by refining my methods, eliminating the security vulnerabilities, and implementing input validation. These experiences solidified my abilities in software design and engineering.
 
 
+## Optional
+
+Find the original .out file [here.](https://github.com/GalarianRapidash2345/Enhancement-One/blob/main/Project2%20(1).out)
+
+Find the new .exe file [here.](https://github.com/GalarianRapidash2345/Enhancement-One/blob/main/CS%20410%20Reverse%20Engineering%20Enhancement%201.exe)
+
+
 # References
