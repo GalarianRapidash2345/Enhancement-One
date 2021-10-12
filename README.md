@@ -30,3 +30,8 @@ Find the new .exe file [here.](https://github.com/GalarianRapidash2345/Enhanceme
 
 
 # References
+
+*Bless: A full featured hexadecimal editor.* (n.d.). Linux Mint. Retrieved 2021, from https://community.linuxmint.com/software/view/bless
+
+
+            SEI CERT c coding standard. (2018, December 5). In *Confluence.* https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
